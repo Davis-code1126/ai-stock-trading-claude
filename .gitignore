@@ -1,0 +1,12 @@
+# API Keys - never upload these
+config.py
+
+# Portfolio data
+portfolio.json
+
+# Log files
+log_*.json
+
+# Python cache
+__pycache__/
+*.pyc
