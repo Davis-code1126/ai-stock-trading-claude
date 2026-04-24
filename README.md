@@ -57,3 +57,14 @@ python analyzer.py
 ## License
 
 MIT License — free for personal and commercial use
+
+## 📦 Full Setup Guide & Starter Pack
+
+Want a step-by-step PDF guide with screenshots, full source code bundle, and email support?
+
+👉 [Get the Starter Pack on Gumroad — $5](https://davisphere42.gumroad.com/l/ai-stock-system-starter-pack)
+
+Includes:
+- 27-page PDF setup guide with screenshots
+- Complete Python source code (all 9 modules)
+- Email support for 30 days
