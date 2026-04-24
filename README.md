@@ -68,3 +68,4 @@ Includes:
 - 27-page PDF setup guide with screenshots
 - Complete Python source code (all 9 modules)
 - Email support for 30 days
+💳 Alternative payment: [PayPal](https://paypal.me/DavisWang126)
